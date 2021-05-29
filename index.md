@@ -20,6 +20,7 @@
 * 首先使用者要有一个交大邮箱
 * 然后通过 https://wwr.lanzoui.com/iuXWnplar3g 密码:`9cew` 进行下载
 * 或者扫描下面二维码
+
   ![logo](./picture/download.png)
 
 #### 注意事项
