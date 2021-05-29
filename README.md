@@ -1,2 +1,2 @@
 # Rainy-lmola
-Simple Introduction
+Intro for us and our app 
