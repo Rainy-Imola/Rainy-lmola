@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## 欢迎来到我们的应用介绍页面
 
-You can use the [editor on GitHub](https://github.com/Rainy-Imola/Rainy-lmola/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### 我们是谁？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 我们是来自SJTU的学生
+* 一门课程促成了此次项目开发
 
-### Markdown
+#### 我们做了什么？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 我们做了一个校园分享交流平台——交迹JTrace
 
-```markdown
-Syntax highlighted code block
+* 交迹，取交大的足迹之意。
 
-# Header 1
-## Header 2
-### Header 3
+* 希望我们都能够在交大留下自己的足迹，也许足迹与足迹重合之际，也是心灵与心灵之间的碰撞，在这里，遇见有趣的，志同道合的人，也许，他（她）就在你身边。
 
-- Bulleted
-- List
+  ![logo](./picture/logo.png)
 
-1. Numbered
-2. List
+#### 如何使用？
 
-**Bold** and _Italic_ and `Code` text
+* 首先使用者要有一个交大邮箱
+* 然后通过 https://wwr.lanzoui.com/iuXWnplar3g 密码:`9cew` 进行下载
+* 使用简单方便
 
-[Link](url) and ![Image](src)
-```
+#### 注意事项
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* 尚处于开发阶段，功能未完全开发
+* 受限于服务器配置，可能使用并不稳定
+* 欢迎来体验
 
-### Jekyll Themes
+#### 对代码感兴趣
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rainy-Imola/Rainy-lmola/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 欢迎来访问我们的github仓库[Rainy-Imola (github.com)](https://github.com/Rainy-Imola)
 
-### Support or Contact
+#### 成员组成
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+感谢以下成员的贡献：
+
+* [Snowfall99 (Celeste) (github.com)](https://github.com/Snowfall99)
+
+* [RidiculousDoge (Reymond Gu) (github.com)](https://github.com/RidiculousDoge)
+
+* [JasmineChen123 (Chen Xinran) (github.com)](https://github.com/JasmineChen123)
+* [Tongzhixin (github.com)](https://github.com/Tongzhixin)
+* [Lajizz (XiangzheWang) (github.com)](https://github.com/Lajizz)
+
