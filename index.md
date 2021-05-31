@@ -21,7 +21,7 @@
 * 然后通过https://wwr.lanzoui.com/iNl3Ypnp7ch 密码:`e7ho` 进行下载
 * 或者扫描下面二维码
 
-  ![logo](./picture/download.png)
+  ![logo](./picture/QR.png)
 
 #### 注意事项
 
